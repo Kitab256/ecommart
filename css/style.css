@@ -1,0 +1,19 @@
+* {
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Oswald", sans-serif;
+}
+
+header .container {
+  background-color: gold;
+}
+header .container .nvgtn-menu .item-header .icon-header {
+  scale: 2;
+}
+
+section .s-container .s-menu .img-section img {
+  width: 400px;
+  position: relative;
+  top: 0px;
+  left: px;
+}/*# sourceMappingURL=style.css.map */
